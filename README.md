@@ -1,0 +1,2 @@
+# 2018_github_practice
+GitHubに慣れるための研修用リポジトリです。
